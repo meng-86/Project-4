@@ -22,5 +22,12 @@ For example, one of the factors we will be looking at is average glucose level (
 
 Another one of the factors we are looking at is if the individual has ever been married, now, I’m not saying that if those who are married are at higher risk everyone should get divorced. However, if there is a correlation between being married and being at higher risk, it may mean that social factors, such as relationships or jobs may have a bigger impact than we realise.
 
+### Resources Used
+
+1. Kaggle [Stroke Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+2. AWS
+3. Google Colab
+4. PG Admin
+
 
 
