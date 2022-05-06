@@ -8,7 +8,9 @@ In this project, we are looking at different variables in a stroke data set, to 
 
 **Background**
 
-A stroke occurs when blood supply to part of the brain is cut off. This starves the brain of Oxygen. The majority of strokes are Ischaemic, meaning that they are caused by a blockage in the blood supply to the brain, most often a blood clot. Haemorrhagic strokes are caused by a burst blood vessel in the brain, though these are less common,
+A stroke occurs when blood supply to part of the brain is cut off. This starves the brain of Oxygen. The majority of strokes are Ischaemic, meaning that they are caused by a blockage in the blood supply to the brain, most often a blood clot. Haemorrhagic strokes are caused by a burst blood vessel in the brain, though these are less common.
+
+![Illustration-of-ischemic-stroke](https://user-images.githubusercontent.com/88689661/167123445-7cab9814-64be-4142-8541-5fd4d6bc7395.png)
 
 In the UK, strokes occur more than 100,000 times a year, which equates to one every 5 minutes. While age is a very important factor in stroke, it being most likely to occur after the age of 55, young people can be affected too. Strokes are the fourth leading cause of death in the UK - a life lost every 17 minutes. Not only is there a high mortality rate, but survivors of strokes can be severely impacted, with almost two thirds of survivors leaving hospital with some form of disability.
 
