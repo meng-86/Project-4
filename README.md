@@ -22,7 +22,13 @@ If we were able to successfully predict whether someone was at high stroke risk 
 
 For example, one of the factors we will be looking at is average glucose level (blood sugar), if those with a higher blood sugar are more at risk, we could then look at lowering the blood sugar through diet and exercise.
 
-Another one of the factors we are looking at is if the individual has ever been married, now, I’m not saying that if those who are married are at higher risk everyone should get divorced. However, if there is a correlation between being married and being at higher risk, it may mean that social factors, such as relationships or jobs may have a bigger impact than we realise.
+Another one of the factors we are looking at is if the individual has ever been married, now, we're not saying that if those who are married are at higher risk everyone should get divorced. However, if there is a correlation between being married and being at higher risk, it may mean that social factors, such as relationships or jobs may have a bigger impact than we realise.
+
+**What did the project entail?**
+
+The project involved loading the data into S3 buckets on AWS, before using Google Colab to retrieve it. It was imported into SQL to create views for the social and scientific factors of the data, which were then pulled back into Google Colab. The data was then cleaned/processed and standardised ready for use in a number of machine learning algorithms. From initial testing, it was determined that RandomForestClassifier was the best algorithm to use, following which further work was done to see if the accuracy could be improved further. It was also found from the initial test that the dataset was imbalanced, hence techniques to rectify the imbalance were employed. 
+
+*Please see the final report for further detail.*
 
 ### Resources Used
 
